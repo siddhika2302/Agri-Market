@@ -15,9 +15,14 @@ Introduction :
 
 Functional Requirements: 
     • Connects farmers with potential buyers to sell their crops
+    
     • Farmers can also buy various machinery and pesticides
+    
     • Blogs to promote healthy farming practises
+    
     • Open to all, new users are welcome.
+    
     • Back end: MySQL
-    • Front end: PHP
+    
+    • Front end: PHP, HTML, CSS, JS
    
