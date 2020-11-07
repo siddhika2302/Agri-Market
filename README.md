@@ -11,8 +11,7 @@ MIS 1: 111803136 Siddhika Bejekar
 
 MIS 2: 111803124 Sarah Hussain 
 
-Tech Stack Used
-
+Technology used:
     HTML/ CSS/ JS for Frontend
     PHP for backend
     MySQL database
