@@ -22,8 +22,8 @@ Technology used:
     1.) HTML/ CSS/ JS for Frontend
     2.) PHP for backend
     3.) MySQL database
-
-Functional Requirements: 
+    
+Features:
 
     • User can register as a Farmer or a Customer.
     
