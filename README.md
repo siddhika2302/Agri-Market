@@ -16,9 +16,9 @@ Introduction :
 Functional Requirements: 
     • Connects farmers with potential buyers to sell their crops
     
-    • Farmers can also buy various machinery and pesticides
+    • Farmers can upload their products on the website with the respective prices.
     
-    • Blogs to promote healthy farming practises
+    • Farmers can also buy various machinery and pesticides
     
     • Open to all, new users are welcome.
     
