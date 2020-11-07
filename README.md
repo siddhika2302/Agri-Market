@@ -13,9 +13,9 @@ MIS 2: 111803124 Sarah Hussain
 
 Technology used:
 
-    HTML/ CSS/ JS for Frontend
-    PHP for backend
-    MySQL database
+    1.) HTML/ CSS/ JS for Frontend
+    2.) PHP for backend
+    3.) MySQL database
 
 Problem statement  : 
 	This is a database project that connects farmers with customers in an easy and effortless way. Also farmers can buy various equipments and fertilizers needed for agriculture.
