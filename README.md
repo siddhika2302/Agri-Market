@@ -3,7 +3,8 @@ Project name: AGRI-MARKET
 
 Database Management System Project/ Agriculture Management System(E-Farming)
 
-Name : Siddhika Bejekar 111803136/ Partner name: Sarah Hussain 111803124
+MIS 1: 111803136 Siddhika Bejekar
+MIS 2: 111803124 Sarah Hussain 
 
 Computer Engineering
 
@@ -20,8 +21,12 @@ Introduction :
   
 Functional Requirements: 
     • Connects farmers with potential buyers to sell their crops
+    
     • Farmers can also buy various machinery and pesticides
+    
     • Open to all, new users are welcome.
+    
     • Back end: MySQL
+    
     • Front end: Php, Html,JS, Bootstrap
    
