@@ -17,9 +17,11 @@ Functional Requirements:
 
     • User can register as a Farmer or a Customer.
     
-    • If user is farmer then he will be able to sell their their products(crops, grains) to the customers.
+    • If user is farmer then he will be able to sell his products(crops, grains) to the customers.
     
     • Farmers can also buy fertilizers and machinery from the website.
     
-    •If you are logged in as custome ryou can buy Crops and grains from Farmers. You can see profiles of farmers and also the prices they are selling their crops with.     
+    •If you are logged in as custome ryou can buy Crops and grains from Farmers.
+    
+    •You can see profiles of farmers and also the prices they are selling their crops with.     
  
