@@ -33,5 +33,21 @@ Features:
     
     •If you are logged in as customer you can buy crops and grains from Farmers.
     
-    •You can see profiles of farmers and also the prices they are selling their crops with.     
+    •You can see profiles of farmers and also the prices they are selling their crops with.
+    
+    Installation Guide :
+    For Linux(Ubuntu):
+    
+    1.) Download the zip file and extract it.
+    2.) Copy and paste it in /opt/lampp/htdocs.
+    
+    For starting xampp apache server:
+    
+    3.) Go to terminal and type cd /opt/lampp/
+    4.) Then type sudo ./manager-linux-x64.run
+    5.) your Xamp server will get started.
+    6.) Open new window on browser and type localhost/phpmyadmin/
+    7.) Import database file in "agrimarket" database in Xampp.
+    8.) Open chrome type "localhost/AgriMarket" .
+
  
