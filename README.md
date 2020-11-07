@@ -3,7 +3,7 @@ Project name: AGRI-MARKET
 
 Hosted on https://github.com/SIDDHIKA-BEJEKAR/Agri-Market
 
-Database Management System Project/ Agriculture Management System(E-Farming)
+Database Management System Project : Agriculture Management System(E-Farming)
 
 Members:
 
