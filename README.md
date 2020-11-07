@@ -35,8 +35,9 @@ Features:
     
     •You can see profiles of farmers and also the prices they are selling their crops with.
     
-    Installation Guide :
-    For Linux(Ubuntu):
+Installation Guide :
+
+ For Linux(Ubuntu):
     
     1.) Download the zip file and extract it.
     2.) Copy and paste it in /opt/lampp/htdocs.
