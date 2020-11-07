@@ -40,15 +40,12 @@ Installation Guide :
  For Linux(Ubuntu):
     
     1.) Download the zip file and extract it.
-    2.) Copy and paste it in /opt/lampp/htdocs.
-    
-    For starting xampp apache server:
-    
+    2.) Copy and paste it in /opt/lampp/htdocs.   
     3.) Go to terminal and type cd /opt/lampp/
     4.) Then type sudo ./manager-linux-x64.run
-    5.) your Xamp server will get started.
+    5.) Your Xamp will get started.
     6.) Open new window on browser and type localhost/phpmyadmin/
     7.) Import database file in "agrimarket" database in Xampp.
-    8.) Open chrome type "localhost/AgriMarket" .
+    8.) Open new window o browser and type "localhost/AgriMarket" .
 
  
