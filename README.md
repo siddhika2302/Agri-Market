@@ -5,12 +5,6 @@ Hosted on https://github.com/SIDDHIKA-BEJEKAR/Agri-Market
 
 Database Management System Project : Agriculture Management System(E-Farming)
 
-Members:
-
-MIS 1: 111803136 Siddhika Bejekar
-
-MIS 2: 111803124 Sarah Hussain 
-
 Problem statement  : 
 	This is a database project that connects farmers with customers in an easy and effortless way. Also farmers can buy various equipments and fertilizers needed for agriculture.
 
